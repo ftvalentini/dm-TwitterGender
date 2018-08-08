@@ -1,0 +1,2 @@
+"Accuracy","Sensitivity_brand","Sensitivity_female","Sensitivity_male","Specificity_brand","Specificity_female","Specificity_male","AUC_brand","AUC_female","AUC_male"
+0.666,0.728915662650602,0.686813186813187,0.572368421052632,0.937125748502994,0.773584905660377,0.78735632183908,0.901287785874035,0.813981615868408,0.788225952813067

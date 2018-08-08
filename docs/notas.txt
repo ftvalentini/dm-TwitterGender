@@ -1,0 +1,15 @@
+- sitio kaggle: https://www.kaggle.com/crowdflower/twitter-user-gender-classification
+- variables dudas:
+	- que quiere decir golden?
+	- que es trusted judgments?
+	- sirve gender_gold?
+	- sirve link_color?
+	- sirve profile_yn_gold?
+- profile_yn=="no" se corresponde con gender==""
+- ponderar cada observacion segun gender.confidence y/o profile_yn.confidence?
+- solo 159 usuarios informan tweet_cord: sacar la variable o armar boolean igual?
+- tweet_location dice cualquier cosa
+- tweet_created tiene muy poca variabilidad (un solo dia, horarios muy parecidos)
+
+- modelos:
+- no usamos caretEnsemble para ensamblar porque no sirve para multiclass
