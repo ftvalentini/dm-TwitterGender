@@ -8,4 +8,4 @@ Dataset: [kaggle.com/crowdflower/twitter-user-gender-classification](kaggle.com/
 
 *Autores: Nicolas Abuchar, Franco Betteo y Francisco Valentini*
 
-*Mayo de 2018*
+*Julio de 2018*
